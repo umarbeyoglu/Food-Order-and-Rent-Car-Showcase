@@ -20,7 +20,7 @@ this sends business notification
 
 (Commission fee will be added if the deliverer is from external company)
 
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_193106.png)  
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240126_193106.png)  
 
 # Order Notification Screen
 
@@ -31,7 +31,7 @@ before so they are aware beforehand)
 
 -They can view how much rating client had from businesses before (Only businesses can see this)
 
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_193924.png)  
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240126_193924.png)  
 
 # Filter Previous Orders Screen
 
@@ -52,9 +52,9 @@ before so they are aware beforehand)
 -They can filter and see all orders in those lists and view the total
 sold items and earnings between that time
 
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_194335.png)  
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_194932.png)
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_194837.png)  
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240126_194335.png)  
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240126_194932.png)
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240126_194837.png)  
 
 # Cart Screen
 
@@ -72,8 +72,8 @@ sold items and earnings between that time
 
 -Coupon can be entered here (validity is checked here)
 
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240127_141842.png)
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_201352.png)
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240127_141842.png)
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240126_201352.png)
 
 # Article Discount Screen (Car Rent App Only)
 
@@ -84,8 +84,8 @@ it with certain number of people
 
 -They can add or remove products from discount
 
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240127_140848.png)
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240127_140953.png)
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240127_140848.png)
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240127_140953.png)
 
 # Activity Log Screen (Car Rent App Only)
 -Businesses can view all of their employees certain activity inside
@@ -93,6 +93,6 @@ their business
 
 -All of the activities are listed with all details that are crucial for information
 
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_205010.png)
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot_20240126_205010.png)
 
 
