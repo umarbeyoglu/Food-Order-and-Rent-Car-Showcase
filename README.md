@@ -7,7 +7,7 @@ this sends business notification
 -Business and Client can track delivery
 -Choose Deliverer (Inside Company or Request one From other companies with costs)
 
-![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_192555.png "")  
+![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_192555.png "Title 1")  
 ![alt text](https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/tree/main/images/Screenshot_20240126_192000.png "")  
 
 # Delivery Request Screen
