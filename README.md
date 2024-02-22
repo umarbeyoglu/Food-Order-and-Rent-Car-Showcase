@@ -1,5 +1,13 @@
 # Food-Order-and-Rent-Car-Showcase
 
+# Security Grading
+
+https://securityheaders.com/?q=www.yemekt.com%2Fapi%2F&followRedirects=on
+https://securityheaders.com/?q=www.rentacarcyprus.co%2Fapi%2F&followRedirects=on
+
+<img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/SG1.png" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/SG2.png" width=50% height=50%>
+
 # Order Details Screen
 
 -Business and Client can view details about the order
