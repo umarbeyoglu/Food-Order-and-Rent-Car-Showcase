@@ -8,6 +8,21 @@ https://securityheaders.com/?q=www.rentacarcyprus.co%2Fapi%2F&followRedirects=on
 <img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/SG1.png" width=50% height=50%>
 <img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/SG2.png" width=50% height=50%>
 
+# Home Pages
+
+<img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot3.png" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot5.png" width=50% height=50%>
+
+# Login Screen
+
+<img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot2.png" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot6.png" width=50% height=50%>
+
+# Feed Screen
+
+<img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot1.png" width=50% height=50%>
+<img src="https://github.com/umarbeyoglu/Food-Order-and-Rent-Car-Showcase/blob/main/images/Screenshot4.png" width=50% height=50%>
+
 # Order Details Screen
 
 -Business and Client can view details about the order
